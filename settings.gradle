@@ -1,1 +1,1 @@
-include ':app', ':myapplication2', ':daemonservice'
+include ':app', ':myapplication2', ':daemonservice', ':client', ':remoteservice'
